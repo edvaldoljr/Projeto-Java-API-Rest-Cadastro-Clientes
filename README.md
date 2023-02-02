@@ -1,6 +1,6 @@
 # **Projeto API Rest Cadastro Clientes** 
 
-![]()
+![](https://github.com/edvaldoljr/Projeto-Java-API-Rest-Cadastro-Clientes/blob/master/img/img-projeto.gif?raw=true)
 
  API de cadastro de clientes que utiliza o banco de dados H2, o JPA e o Lombok.
 
